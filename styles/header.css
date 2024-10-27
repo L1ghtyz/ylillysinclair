@@ -107,7 +107,6 @@
 
     .header-container {
         background-color: var(--color-3);
-        position: absolute;
     }
 
     .header-content {
