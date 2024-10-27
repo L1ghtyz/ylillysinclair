@@ -3,6 +3,7 @@
 
 @import url(styles/header.css);
 @import url(styles/sections.css);
+@import url(styles/footer.css);
 
  * {
     padding: 0;
