@@ -26,7 +26,7 @@
 
 .section1-images > .images-image {
     width: 20vw;
-    border: 5px solid var(--color-2);
+    border: 5px solid var(--color-4);
     border-radius: 10rem;
     transition: .4s;
 }
@@ -174,7 +174,7 @@
 
 .section3-content-main > img { 
     width: 18vw;
-    border: 5px solid var(--color-3);
+    border: 5px solid var(--color-4);
     border-radius: 10rem;
     transition: .4s;
 }
