@@ -2,7 +2,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Krona+One&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
 
 @import url(styles/header.css);
-@import url(styles/sections.css);
+@import url(styles/section-1.css);
+@import url(styles/section-2.css);
 @import url(styles/footer.css);
 
  * {
