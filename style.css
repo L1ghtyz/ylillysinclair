@@ -28,11 +28,11 @@
     --second-font: "Montserrat", sans-serif;
     --color-black: #000000;
     --color-white: #fff;
-    --color-1: #D8B1E6;
-    --color-2: #BD96CF;
-    --color-3: #BD96CF;
-    --color-4: #896388;
-    --color-5: #33292D;
+    --color-1: #FF005E;
+    --color-main: #c41d5a;
+    --color-main-hover: #f3236f;
+    --color-buttons: #b81752;
+    --color-buttons-hover: #eb3477;
 }
 
 html, body {

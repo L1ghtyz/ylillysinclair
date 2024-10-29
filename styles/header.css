@@ -107,7 +107,7 @@
 @media (min-width: 0px) and (max-width: 850px) {
 
     .header-container {
-        background-color: var(--color-4);
+        background-color: var(--color-main);
     }
 
     .header-content {
@@ -154,7 +154,7 @@
     }
 
     .mobile-menu-list > a > li:hover {
-        background-color: var(--color-3);
+        background-color: var(--color-main-hover);
         padding-left: 35%;
     }
 
@@ -172,7 +172,7 @@
     }
 
     .menu-list-contacts:hover {
-        background-color: var(--color-3);
+        background-color: var(--color-main-hover);
     }
 
     .menu-list-contacts > a > img {
