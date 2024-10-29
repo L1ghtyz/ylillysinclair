@@ -81,7 +81,7 @@
         display: flex;
         flex-direction: column;
         gap: 4rem;
-        padding: 42% 6% 2% 6%;
+        padding: 35% 6% 2% 6%;
     }
 
     .section1-images > .images-image {
@@ -93,11 +93,13 @@
     }
 
     .section1-text > h1 {
-        font-size: 1.5rem;
+        font-size: 1.65rem;
+        margin: 0% 0% 8% 0%;
     }
 
     .section1-text > p {
-        font-size: 1rem;
+        font-size: 1.1rem;
+        padding: 0% 1% 0% 1%;
     }
 
     .images-title {
