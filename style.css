@@ -11,7 +11,7 @@
     margin: 0;
 }
 
-:root {
+/* :root {
     --primary-font: "Krona one", sans-serif;
     --second-font: "Montserrat", sans-serif;
     --color-black: #000000;
@@ -20,6 +20,18 @@
     --color-2: #CC2965;
     --color-3: #993D5F;
     --color-4: #663D4C;
+    --color-5: #33292D;
+} */
+
+:root {
+    --primary-font: "Krona one", sans-serif;
+    --second-font: "Montserrat", sans-serif;
+    --color-black: #000000;
+    --color-white: #fff;
+    --color-1: #D8B1E6;
+    --color-2: #BD96CF;
+    --color-3: #BD96CF;
+    --color-4: #896388;
     --color-5: #33292D;
 }
 

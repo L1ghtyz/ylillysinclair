@@ -25,7 +25,7 @@
 
 .section1-images > .images-image {
     width: 20vw;
-    border: 5px solid var(--color-4);
+    border: 5px solid var(--color-1);
     border-radius: 10rem;
     transition: .4s;
 }

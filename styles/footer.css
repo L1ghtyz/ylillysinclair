@@ -7,7 +7,7 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    padding: 1% 0% 1% 0%;
+    padding: 0.8% 0% 0.8% 0%;
 }
 
 .footer-text {
@@ -18,7 +18,7 @@
 
 @media (min-width: 0px) and (max-width: 850px) {
     .footer-content {
-        padding: 5% 2% 5% 2%;
+        padding: 3% 2% 3% 2%;
         text-align: center;
     }
 }
