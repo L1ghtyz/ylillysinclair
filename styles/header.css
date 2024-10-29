@@ -36,6 +36,7 @@
     font-weight: normal;
     font-size: 1.5rem;
     text-transform: uppercase;
+    text-shadow: 1px 1px 1px var(--color-black);
 }
 
 .logo-text-link {
@@ -128,6 +129,7 @@
 
     .logo-text {
         font-size: 1rem;
+        text-shadow: none
     }
 
     .header-contacts {

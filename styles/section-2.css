@@ -26,7 +26,7 @@
 }
 
 .section2-text {
-    margin: 5% 0% 0% 0%;
+    margin: 0% 0% 0% 0%;
     text-align: center;
     color: var(--color-white);
 }
@@ -42,7 +42,7 @@
 .section2-text > p {
     font-weight: 200;
     font-size: 1.1rem;
-    margin: 0% 0% 8% 0%;
+    margin: 0% 0% 12% 0%;
 }
 
 .section2-buttons {
@@ -61,7 +61,7 @@
     justify-content: space-between;
     font-size: 1.2rem;
     font-weight: 200;
-    text-shadow: 1px 1px 1px black;
+
     gap: 1.5rem;
     background-color: var(--color-buttons);
     padding: 5.2% 8% 5.2% 8%;
@@ -85,8 +85,8 @@
     .section2-content {
         display: flex;
         flex-direction: column;
-        padding: 25% 6% 25% 6%;
-        gap: 3rem;
+        padding: 25% 6% 20% 6%;
+        gap: 5rem;
     }
 
     .section2-images > img {
@@ -100,10 +100,14 @@
 
     .section2-text > p {
         font-size: 1.1rem;
-        padding: 0% 1% 15% 1%;
+        padding: 0% 1% 10% 1%;
     }
 
     .buttons-list-content {
-        padding: 0% 10% 0% 10%;
+        padding: 0% 8% 0% 8%;
+    }
+
+    .buttons-content-link > img {
+        width: 5vw;
     }
 }

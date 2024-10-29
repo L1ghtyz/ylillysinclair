@@ -1,6 +1,6 @@
 
 .footer-container {
-    background-color: var(--color-black);
+    background-color: var(--color-black)
 }
 
 .footer-content {
@@ -18,7 +18,8 @@
 
 @media (min-width: 0px) and (max-width: 850px) {
     .footer-content {
-        padding: 3% 2% 3% 2%;
+        padding: 3.5% 2% 3.5% 2%;
+        font-size: 0.9rem;
         text-align: center;
     }
 }
